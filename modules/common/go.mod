@@ -73,7 +73,6 @@ require (
 )
 
 require (
-	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
 	github.com/google/gnostic-models v0.6.8 // indirect
 	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
 )
